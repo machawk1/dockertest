@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: cs418.matkelly.com
--- Generation Time: Feb 04, 2015 at 02:13 PM
+-- Generation Time: Feb 06, 2015 at 12:26 PM
 -- Server version: 5.1.56
 -- PHP Version: 5.6.4
 
@@ -18,6 +18,8 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 --
 -- Database: `lecture4`
 --
+CREATE DATABASE `lecture4` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `lecture4`;
 
 -- --------------------------------------------------------
 
